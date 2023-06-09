@@ -1,4 +1,4 @@
-# BUSINESS INTELLIGENCE - ANLISE E KPI's LOGISTICOS
+# BUSINESS INTELLIGENCE - ANÁLISE E KPI's LOGISTICOS
 
 Resultado da participação da segunda semana de Alura Challenge para o desafio de Business Intellingence. O case da semana foi criar uma análise com base em dados de um controle Logistico de entregas, pedidos e prazos de entregas. Utilizando a ferramenta Microsoft Power Bi foi possível resolver os problemas propostos.
 
